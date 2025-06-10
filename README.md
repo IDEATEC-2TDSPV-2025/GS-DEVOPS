@@ -219,7 +219,7 @@ docker ps
 
 ## 🔗 Links do Projeto
 
-- **Repositório GitHub**: https://github.com/Pedro-Ladeira/GS-Java
+- **Repositório GitHub**: https://github.com/IDEATEC-2TDSPV-2025/GS-DEVOPS
 - **Vídeo Demonstrativo**: https://youtu.be/LwV8CagW1Cg
 - **Deploy Nuvem**: https://gs-java-qz1z.onrender.com/
 
